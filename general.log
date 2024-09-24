@@ -1,0 +1,446 @@
+2024-09-20 22:07:07,074 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:08:02,084 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:08:02,084 - __main__ - INFO - failed to update users.json
+2024-09-20 22:09:17,227 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:09:24,912 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:09:24,913 - __main__ - INFO - failed to update users.json
+2024-09-20 22:15:10,850 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:15:10,851 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:15:13,357 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:15:19,569 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:15:19,570 - __main__ - INFO - failed to update users.json
+2024-09-20 22:15:39,430 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:15:39,431 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:15:40,686 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:15:41,820 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:15:41,820 - __main__ - INFO - Expecting value: line 1 column 1 (char 0)
+2024-09-20 22:15:41,821 - __main__ - INFO - failed to update users.json
+2024-09-20 22:16:05,304 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:16:05,304 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:16:06,698 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:16:08,180 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:16:08,181 - __main__ - INFO - Expecting value: line 1 column 1 (char 0)
+2024-09-20 22:16:08,181 - __main__ - INFO - failed to update users.json
+2024-09-20 22:16:22,890 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:16:24,404 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:16:24,410 - __main__ - INFO - Expecting value: line 1 column 1 (char 0)
+2024-09-20 22:16:24,414 - __main__ - INFO - failed to update users.json
+2024-09-20 22:16:48,612 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:16:48,613 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:16:49,818 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:16:50,862 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:16:50,865 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:16:50,865 - __main__ - INFO - failed to update users.json
+2024-09-20 22:17:57,947 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:17:57,948 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:17:59,696 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:18:01,042 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:18:01,045 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:18:01,045 - __main__ - INFO - failed to update users.json
+2024-09-20 22:18:38,702 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:18:38,703 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:18:39,903 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:18:45,242 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:18:45,242 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:19:47,878 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:19:48,977 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:19:48,978 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:19:48,978 - __main__ - INFO - failed to update users.json
+2024-09-20 22:19:56,806 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:19:56,808 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:19:56,809 - __main__ - INFO - failed to update users.json
+2024-09-20 22:20:02,802 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:20:02,803 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:20:43,033 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:20:44,494 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:20:44,494 - __main__ - INFO - Attribute `id` of class `User` can't be set!
+2024-09-20 22:20:44,495 - __main__ - INFO - failed to update users.json
+2024-09-20 22:21:10,877 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:21:10,878 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:21:12,056 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:21:12,836 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:21:12,838 - __main__ - INFO - 'User' object has no attribute '__dict__'
+2024-09-20 22:21:12,841 - __main__ - INFO - failed to update users.json
+2024-09-20 22:21:29,350 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:21:29,351 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:21:30,570 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:21:31,935 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:21:31,938 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:21:31,938 - __main__ - INFO - failed to update users.json
+2024-09-20 22:22:15,777 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:22:16,595 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:22:16,597 - __main__ - INFO - cannot access local variable 'users' where it is not associated with a value
+2024-09-20 22:22:16,598 - __main__ - INFO - failed to update users.json
+2024-09-20 22:22:53,114 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:22:53,115 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:22:55,359 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:22:57,610 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:22:57,612 - __main__ - INFO - the JSON object must be str, bytes or bytearray, not dict
+2024-09-20 22:22:57,612 - __main__ - INFO - failed to update users.json
+2024-09-20 22:23:17,869 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:23:17,870 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:23:18,994 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:23:20,196 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:23:20,198 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:23:24,842 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:23:24,844 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:23:43,604 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:23:43,604 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:23:44,723 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:23:45,975 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:23:45,976 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:23:50,662 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:23:50,664 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:23:57,470 - __main__ - INFO - user sent /start, name: \u0430\u0441\u043f\u0430\u0440\u0430\u0433\u0443\u0441, id: 6403675414
+2024-09-20 22:23:57,472 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:24:20,031 - __main__ - INFO - user sent /start, name: \u0430\u0441\u043f\u0430\u0440\u0430\u0433\u0443\u0441, id: 6403675414
+2024-09-20 22:24:20,033 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:25:27,329 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:25:27,330 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:25:28,920 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:25:29,943 - __main__ - INFO - user sent /start, name: \u0430\u0441\u043f\u0430\u0440\u0430\u0433\u0443\u0441, id: 6403675414
+2024-09-20 22:25:29,944 - __main__ - INFO - cannot access local variable 'file' where it is not associated with a value
+2024-09-20 22:25:29,944 - __main__ - INFO - failed to update users.json
+2024-09-20 22:25:49,101 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:25:49,102 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:25:50,749 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:25:51,521 - __main__ - INFO - user sent /start, name: \u0430\u0441\u043f\u0430\u0440\u0430\u0433\u0443\u0441, id: 6403675414
+2024-09-20 22:25:51,522 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:25:57,764 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:25:57,766 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:27:37,180 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:27:37,181 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:27:39,000 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:27:39,725 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:27:39,727 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:27:48,962 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:27:48,964 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:33:04,357 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:33:04,358 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:33:05,749 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:33:14,619 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:33:14,621 - __main__ - INFO - successfully updated users.json
+2024-09-20 22:33:34,087 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-20 22:33:34,088 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-20 22:33:55,692 - telegram.ext.Application - INFO - Application started
+2024-09-20 22:33:57,512 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 22:33:57,513 - __main__ - INFO - successfully updated users.json
+2024-09-20 23:00:54,064 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-20 23:00:54,065 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,052 - __main__ - INFO - user sent /start, name: @ushpai, id: 5252914897
+2024-09-23 00:35:26,060 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,246 - __main__ - INFO - user sent /start, name: @cheese315, id: 1770093631
+2024-09-23 00:35:26,250 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,338 - __main__ - INFO - user sent /start, name: Eziz Hatamow, id: 7159870062
+2024-09-23 00:35:26,342 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,425 - __main__ - INFO - user sent /start, name: @ushpai, id: 5252914897
+2024-09-23 00:35:26,429 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,521 - __main__ - INFO - user sent /start, name: @firstnameintelegram, id: 977772858
+2024-09-23 00:35:26,522 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,623 - __main__ - INFO - user sent /start, name: @firstnameintelegram, id: 977772858
+2024-09-23 00:35:26,627 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,697 - __main__ - INFO - user sent /start, name: @Mickey300a, id: 5078334745
+2024-09-23 00:35:26,698 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,784 - __main__ - INFO - user sent /start, name: @Mickey300a, id: 5078334745
+2024-09-23 00:35:26,788 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:26,873 - __main__ - INFO - user sent /start, name: @a_lex_n, id: 1333395393
+2024-09-23 00:35:26,874 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,018 - __main__ - INFO - user sent /start, name: @emae_shiza, id: 1134962790
+2024-09-23 00:35:27,022 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,146 - __main__ - INFO - user sent /start, name: @assassasass, id: 1094214465
+2024-09-23 00:35:27,151 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,266 - __main__ - INFO - user sent /start, name: @llllisonok, id: 1166806960
+2024-09-23 00:35:27,271 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,389 - __main__ - INFO - user sent /start, name: @kyzylkyoto, id: 5056075256
+2024-09-23 00:35:27,395 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,501 - __main__ - INFO - user sent /start, name: @barguzinn, id: 1735546371
+2024-09-23 00:35:27,506 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,565 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 57, in start
+    await update.message.reply_html(
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_message.py", line 2006, in reply_html
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 2909, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 1029, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 373, in _request_wrapper
+    raise Forbidden(message)
+telegram.error.Forbidden: Forbidden: bot was blocked by the user
+2024-09-23 00:35:27,646 - __main__ - INFO - user sent /start, name: @ulyulyulyulyulyu, id: 1128495573
+2024-09-23 00:35:27,652 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,743 - __main__ - INFO - user sent /start, name: @linokxs, id: 5049704214
+2024-09-23 00:35:27,747 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,836 - __main__ - INFO - user sent /start, name: @kkklmmmsss, id: 931999978
+2024-09-23 00:35:27,841 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:27,921 - __main__ - INFO - user sent /start, name: @arinka225, id: 508959320
+2024-09-23 00:35:27,926 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,002 - __main__ - INFO - user sent /start, name: @Bright099, id: 1263494893
+2024-09-23 00:35:28,007 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,100 - __main__ - INFO - user sent /start, name: @liza_baidina, id: 1279958967
+2024-09-23 00:35:28,105 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,211 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-23 00:35:28,216 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,326 - __main__ - INFO - user sent /start, name: @luisev23, id: 6614571826
+2024-09-23 00:35:28,327 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,386 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 57, in start
+    await update.message.reply_html(
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_message.py", line 2006, in reply_html
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 2909, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 1029, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 373, in _request_wrapper
+    raise Forbidden(message)
+telegram.error.Forbidden: Forbidden: bot was blocked by the user
+2024-09-23 00:35:28,388 - __main__ - INFO - user sent /start, name: @elizaveta_karachevtseva, id: 1929504503
+2024-09-23 00:35:28,392 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,471 - __main__ - INFO - user sent /start, name: @elizaveta_karachevtseva, id: 1929504503
+2024-09-23 00:35:28,476 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,553 - __main__ - INFO - user sent /start, name: @siuuuuupon, id: 6630021459
+2024-09-23 00:35:28,554 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,636 - __main__ - INFO - user sent /start, name: @a_lex_n, id: 1333395393
+2024-09-23 00:35:28,641 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,720 - __main__ - INFO - user sent /start, name: @victoria_0185, id: 1205122064
+2024-09-23 00:35:28,721 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,836 - __main__ - INFO - user sent /start, name: @elizaveta_karachevtseva, id: 1929504503
+2024-09-23 00:35:28,841 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,917 - __main__ - INFO - user sent /start, name: @emae_shiza, id: 1134962790
+2024-09-23 00:35:28,917 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:35:28,992 - __main__ - INFO - user sent /start, name: @kkklmmmsss, id: 931999978
+2024-09-23 00:35:28,993 - __main__ - INFO - successfully updated users.json
+2024-09-23 00:54:33,732 - __main__ - INFO - user sent /start, name: @FR7MN, id: 7544437061
+2024-09-23 00:54:33,733 - __main__ - INFO - successfully updated users.json
+2024-09-23 02:09:59,437 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-23 02:09:59,442 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-23 02:10:02,019 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:12:17,898 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:12:19,769 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 131, in getusers_command
+    await update.effective_user.send_message('\n'.join(map(lambda k, v: f'name: {v.name}\nid: {k}\njoined at {v.joined_at}', data.items())))
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: getusers_command.<locals>.<lambda>() missing 1 required positional argument: 'v'
+2024-09-23 02:12:59,847 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 131, in getusers_command
+    await update.effective_user.send_message('\n'.join(map(lambda item: (lambda k, v: f'name: {v.name}\nid: {k}\njoined at {v.joined_at}')(*item), data.items())))
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: getusers_command.<locals>.<lambda>() missing 1 required positional argument: 'v'
+2024-09-23 02:13:04,175 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:13:05,164 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 131, in getusers_command
+    await update.effective_user.send_message('\n'.join(map(lambda item: (lambda k, v: f'name: {v.name}\nid: {k}\njoined at {v.joined_at}')(*item), data.items())))
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 131, in <lambda>
+    await update.effective_user.send_message('\n'.join(map(lambda item: (lambda k, v: f'name: {v.name}\nid: {k}\njoined at {v.joined_at}')(*item), data.items())))
+                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 131, in <lambda>
+    await update.effective_user.send_message('\n'.join(map(lambda item: (lambda k, v: f'name: {v.name}\nid: {k}\njoined at {v.joined_at}')(*item), data.items())))
+                                                                                               ^^^^^^
+AttributeError: 'dict' object has no attribute 'name'
+2024-09-23 02:13:21,879 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-23 02:13:21,880 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-23 02:13:23,046 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:13:31,379 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-23 02:13:31,379 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-23 02:13:32,542 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:22:46,113 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-23 02:22:46,114 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-23 02:22:47,254 - telegram.ext.Application - INFO - Application started
+2024-09-23 02:23:00,512 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:00,513 - __main__ - INFO - successfully updated users.json
+2024-09-23 02:23:04,693 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:08,291 - __main__ - INFO - user pressed button with action schedule_for_\u041d\u041f\u0418\u0431\u0434-03-24, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:25,670 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:25,671 - __main__ - INFO - successfully updated users.json
+2024-09-23 02:23:26,789 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:29,828 - __main__ - INFO - user pressed button with action schedule_for_\u041d\u041c\u041c\u0431\u0434-01-24, name: @susumantgnet, id: 6481945834
+2024-09-23 02:23:33,571 - __main__ - INFO - user pressed button with action week_schedule_for_\u041d\u041c\u041c\u0431\u0434-01-24, name: @susumantgnet, id: 6481945834
+2024-09-23 10:09:51,200 - __main__ - INFO - user sent /start, name: @Mickey300a, id: 5078334745
+2024-09-23 10:09:51,200 - __main__ - INFO - successfully updated users.json
+2024-09-23 10:09:51,410 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "X:\coding\tgsch\main.py", line 57, in start
+    await update.message.reply_html(
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_message.py", line 2006, in reply_html
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 2909, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 1029, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\apps\python\3.11\Lib\site-packages\telegram\request\_baserequest.py", line 373, in _request_wrapper
+    raise Forbidden(message)
+telegram.error.Forbidden: Forbidden: bot was blocked by the user
+2024-09-23 23:33:01,840 - __main__ - INFO - user sent /start, name: @john060604, id: 5652633011
+2024-09-23 23:33:01,845 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:33:02,042 - __main__ - INFO - user sent /start, name: @john060604, id: 5652633011
+2024-09-23 23:33:02,043 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:33:02,124 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-23 23:33:02,125 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:33:02,201 - __main__ - INFO - user sent /start, name: @x3x5x7, id: 777519683
+2024-09-23 23:33:02,202 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:33:02,287 - __main__ - INFO - user sent /start, name: @irinaan16, id: 320431194
+2024-09-23 23:33:02,288 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:33:02,373 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-23 23:33:02,378 - __main__ - INFO - successfully updated users.json
+2024-09-23 23:37:53,688 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @john060604, id: 5652633011
+2024-09-23 23:38:04,741 - __main__ - INFO - user pressed button with action schedule_for_\u041d\u041c\u041c\u0431\u0434-04-24, name: @john060604, id: 5652633011
+2024-09-23 23:38:19,295 - __main__ - INFO - user pressed button with action tomorrow_schedule_for_\u041d\u041c\u041c\u0431\u0434-04-24, name: @john060604, id: 5652633011
+2024-09-23 23:43:01,720 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @x3x5x7, id: 777519683
+2024-09-23 23:43:04,929 - __main__ - INFO - user pressed button with action schedule_for_\u041d\u041c\u041c\u0431\u0434-01-24, name: @x3x5x7, id: 777519683
+2024-09-23 23:43:20,619 - __main__ - INFO - user pressed button with action tomorrow_schedule_for_\u041d\u041c\u041c\u0431\u0434-01-24, name: @x3x5x7, id: 777519683
+2024-09-24 00:12:48,526 - __main__ - INFO - user sent /start, name: @Asriel112, id: 7494770922
+2024-09-24 00:12:48,527 - __main__ - INFO - successfully updated users.json
+2024-09-24 00:12:51,459 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @Asriel112, id: 7494770922
+2024-09-24 00:12:55,858 - __main__ - INFO - user pressed button with action schedule_for_\u041d\u041c\u041c\u0431\u0434-03-24, name: @Asriel112, id: 7494770922
+2024-09-24 00:13:17,661 - __main__ - INFO - user pressed button with action week_schedule_for_\u041d\u041c\u041c\u0431\u0434-03-24, name: @Asriel112, id: 7494770922
+2024-09-24 00:46:46,396 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 00:46:46,397 - __main__ - INFO - successfully updated users.json
+2024-09-24 00:46:46,577 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 00:46:46,602 - __main__ - INFO - successfully updated users.json
+2024-09-24 00:49:27,157 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 00:49:27,163 - __main__ - INFO - successfully updated users.json
+2024-09-24 00:49:47,488 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 01:53:49,075 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 01:53:49,077 - __main__ - INFO - successfully updated users.json
+2024-09-24 17:38:09,600 - __main__ - INFO - user sent /start, name: @ushpai, id: 5252914897
+2024-09-24 17:38:09,601 - __main__ - INFO - successfully updated users.json
+2024-09-24 18:38:33,963 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @ushpai, id: 5252914897
+2024-09-24 19:31:31,640 - __main__ - INFO - user sent /start, name: @llllisonok, id: 1166806960
+2024-09-24 19:31:31,642 - __main__ - INFO - successfully updated users.json
+2024-09-24 19:31:35,273 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @llllisonok, id: 1166806960
+2024-09-24 19:32:02,866 - __main__ - INFO - user sent /start, name: @matveycarry, id: 2129237281
+2024-09-24 19:32:02,867 - __main__ - INFO - successfully updated users.json
+2024-09-24 19:32:07,179 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @matveycarry, id: 2129237281
+2024-09-24 19:35:38,877 - __main__ - INFO - user sent /start, name: @EventGraph, id: 685028267
+2024-09-24 19:35:38,880 - __main__ - INFO - successfully updated users.json
+2024-09-24 19:35:42,275 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @EventGraph, id: 685028267
+2024-09-24 19:37:47,253 - __main__ - INFO - user sent /start, name: @pushkinaaaaaaaa, id: 1310860596
+2024-09-24 19:37:47,257 - __main__ - INFO - successfully updated users.json
+2024-09-24 19:37:56,245 - __main__ - INFO - user pressed button with action group_choice_for_year_23, name: @pushkinaaaaaaaa, id: 1310860596
+2024-09-24 19:37:59,854 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @pushkinaaaaaaaa, id: 1310860596
+2024-09-24 19:52:30,747 - __main__ - INFO - user sent /start, name: @giant_of_thought17, id: 1162540781
+2024-09-24 19:52:30,748 - __main__ - INFO - successfully updated users.json
+2024-09-24 19:52:38,165 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @giant_of_thought17, id: 1162540781
+2024-09-24 20:20:28,501 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 20:20:28,503 - __main__ - INFO - successfully updated users.json
+2024-09-24 20:20:29,970 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 20:21:21,411 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @siuuuuupon, id: 6630021459
+2024-09-24 20:25:28,692 - __main__ - INFO - user sent /start, name: @dorochka21, id: 868699166
+2024-09-24 20:25:28,695 - __main__ - INFO - successfully updated users.json
+2024-09-24 20:25:34,212 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @dorochka21, id: 868699166
+2024-09-24 20:25:45,242 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @dorochka21, id: 868699166
+2024-09-24 20:45:21,089 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @irinaan16, id: 320431194
+2024-09-24 20:56:27,764 - __main__ - INFO - user sent /start, name: @ditisc, id: 5107899898
+2024-09-24 20:56:27,766 - __main__ - INFO - successfully updated users.json
+2024-09-24 20:56:32,389 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @ditisc, id: 5107899898
+2024-09-24 21:28:42,410 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 21:28:42,418 - __main__ - INFO - successfully updated users.json
+2024-09-24 21:29:48,252 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:30:56,761 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:31:19,518 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:32:26,392 - __main__ - INFO - user pressed button with action group_choice_for_year_24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:32:36,300 - __main__ - INFO - user pressed button with action schedule_for_НММбд-01-24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:32:44,555 - __main__ - INFO - user pressed button with action tomorrow_schedule_for_НММбд-01-24, name: @susumantgnet, id: 6481945834
+2024-09-24 21:37:02,386 - __main__ - INFO - user pressed button with action tomorrow_schedule_for_НММбд-04-24, name: @FR7MN, id: 7544437061
+2024-09-24 21:49:25,860 - __main__ - INFO - user sent /start, name: @susumantgnet, id: 6481945834
+2024-09-24 21:49:25,862 - __main__ - INFO - successfully updated users.json
