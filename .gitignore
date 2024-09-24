@@ -1,3 +1,4 @@
-data/Н*
-__pycache__
-token.txt
+data/Н*.json
+__pycache__/*
+/token.txt
+/*.log
