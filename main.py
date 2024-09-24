@@ -64,7 +64,14 @@ async def button(update: Update, ctx: ContextTypes.DEFAULT_TYPE) -> None:
 
     group = query.data.split('_')[-1]
     
-    data = json.loads(open(f'./data/{group}.json').read())['data'] if not query.data.startswith('group_choice') else {}
+    if not query.data.startswith('group_choice'):
+        try:
+            data = json.loads(open(f'./data/{group}.json').read())['data']
+        except FileNotFoundError as err:
+            await update.effective_user.send_message('please contact @susumantgnet, no data found for selected group')
+            logger.error(f"no data for group {group}, requested by name: {update.effective_user.name}, " + \
+                    "id: {update.effective_user.id}")
+            return
 
     if query.data.startswith('schedule_for_'):
         await update.effective_user.send_message(f'щас {week_type(isocal)} неделя, {WEEKDAYS[isocal.weekday]}')
@@ -110,7 +117,11 @@ async def button(update: Update, ctx: ContextTypes.DEFAULT_TYPE) -> None:
 
 async def update_command(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('yessssss!!! updating in progress')
-    update_()
+    try:
+        update_()
+    except Exception as e:
+        await update.effective_user.send_message(f'critical error during update, manual fix might be needed')
+        logger.error('critical error while updating data')
     await update.effective_user.send_message('done.')
 
 

@@ -64,6 +64,13 @@ def update():
         soup = bs4.BeautifulSoup(html, 'html.parser')
         print(url)
         content = soup.find('div').find('div').find('div').find('div', class_='tab-content')
-        week_list = html_to_list(content)
+        tries = 0
+        while tries < 5:
+            try:
+                week_list = html_to_list(content)
+            except: tries += 1
+            else: break
+        if tries == 5: raise Exception()
+
         json_file = open(f'./data/{group}.json', 'w+', encoding='UTF-8')
         json_file.write(json.dumps({'data': week_list}))
