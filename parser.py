@@ -1,5 +1,6 @@
 from requests import get
 from collections import OrderedDict
+from datetime import datetime
 
 import bs4
 import json
@@ -40,9 +41,9 @@ def one_week_to_list(par_div_html):
     return D
 
 
-def html_to_list(html: ANNOT):
+def html_to_list(html: ANNOT, first_week_is_upper=True):
     par_divs = html.find_all('div', class_='tab-pane')
-    return [one_week_to_list(par_divs[i]) for i in range(2)]
+    return [one_week_to_list(par_divs[i]) for i in range(2)][::1 if first_week_is_upper else -1]
 
 
 def update_group_codes():
@@ -67,7 +68,7 @@ def update():
         tries = 0
         while tries < 5:
             try:
-                week_list = html_to_list(content)
+                week_list = html_to_list(content, datetime.today().isocalendar().week%2==0)
             except: tries += 1
             else: break
         if tries == 5: raise Exception()
